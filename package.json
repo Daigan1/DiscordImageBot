@@ -1,0 +1,19 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "download-file": "^0.1.5",
+    "downloadjs": "^1.4.7",
+    "looks-same": "^7.2.3",
+    "pixelmatch": "^5.2.0",
+    "webp-converter": "^2.2.3"
+  }
+}
